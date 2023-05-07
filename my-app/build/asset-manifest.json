@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-app/my-app/static/css/main.274f57b5.css",
-    "main.js": "/react-app/my-app/static/js/main.57b6945a.js",
-    "static/media/project2.png": "/react-app/my-app/static/media/project2.c11d9602313998152d83.png",
-    "static/media/project1.png": "/react-app/my-app/static/media/project1.d741c13c0f5381cc1ce7.png",
-    "static/media/intro-bg.jpg": "/react-app/my-app/static/media/intro-bg.af24cc67cedd3e6f615a.jpg",
-    "static/media/React2.png": "/react-app/my-app/static/media/React2.2d9c113e1e1d9427fb85.png",
-    "static/media/React1.png": "/react-app/my-app/static/media/React1.628f74a8d1e93189a2d5.png",
-    "index.html": "/react-app/my-app/index.html",
-    "main.274f57b5.css.map": "/react-app/my-app/static/css/main.274f57b5.css.map",
-    "main.57b6945a.js.map": "/react-app/my-app/static/js/main.57b6945a.js.map"
+    "main.css": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/css/main.274f57b5.css",
+    "main.js": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/js/main.23bf4636.js",
+    "static/media/project2.png": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/media/project2.c11d9602313998152d83.png",
+    "static/media/project1.png": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/media/project1.d741c13c0f5381cc1ce7.png",
+    "static/media/intro-bg.jpg": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/media/intro-bg.af24cc67cedd3e6f615a.jpg",
+    "static/media/React2.png": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/media/React2.2d9c113e1e1d9427fb85.png",
+    "static/media/React1.png": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/media/React1.628f74a8d1e93189a2d5.png",
+    "index.html": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/index.html",
+    "main.274f57b5.css.map": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/css/main.274f57b5.css.map",
+    "main.23bf4636.js.map": "/react-app/tree/9890665b6775bf77b974d38e321100723cc045ee/my-app/static/js/main.23bf4636.js.map"
   },
   "entrypoints": [
     "static/css/main.274f57b5.css",
-    "static/js/main.57b6945a.js"
+    "static/js/main.23bf4636.js"
   ]
 }
