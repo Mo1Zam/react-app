@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Mo1Zam/react-app.git/static/css/main.274f57b5.css",
-    "main.js": "/Mo1Zam/react-app.git/static/js/main.488d57b1.js",
-    "static/media/project2.png": "/Mo1Zam/react-app.git/static/media/project2.c11d9602313998152d83.png",
-    "static/media/project1.png": "/Mo1Zam/react-app.git/static/media/project1.d741c13c0f5381cc1ce7.png",
-    "static/media/intro-bg.jpg": "/Mo1Zam/react-app.git/static/media/intro-bg.af24cc67cedd3e6f615a.jpg",
-    "static/media/React2.png": "/Mo1Zam/react-app.git/static/media/React2.2d9c113e1e1d9427fb85.png",
-    "static/media/React1.png": "/Mo1Zam/react-app.git/static/media/React1.628f74a8d1e93189a2d5.png",
-    "index.html": "/Mo1Zam/react-app.git/index.html",
-    "main.274f57b5.css.map": "/Mo1Zam/react-app.git/static/css/main.274f57b5.css.map",
-    "main.488d57b1.js.map": "/Mo1Zam/react-app.git/static/js/main.488d57b1.js.map"
+    "main.css": "/react-app/static/css/main.274f57b5.css",
+    "main.js": "/react-app/static/js/main.5adab03c.js",
+    "static/media/project2.png": "/react-app/static/media/project2.c11d9602313998152d83.png",
+    "static/media/project1.png": "/react-app/static/media/project1.d741c13c0f5381cc1ce7.png",
+    "static/media/intro-bg.jpg": "/react-app/static/media/intro-bg.af24cc67cedd3e6f615a.jpg",
+    "static/media/React2.png": "/react-app/static/media/React2.2d9c113e1e1d9427fb85.png",
+    "static/media/React1.png": "/react-app/static/media/React1.628f74a8d1e93189a2d5.png",
+    "index.html": "/react-app/index.html",
+    "main.274f57b5.css.map": "/react-app/static/css/main.274f57b5.css.map",
+    "main.5adab03c.js.map": "/react-app/static/js/main.5adab03c.js.map"
   },
   "entrypoints": [
     "static/css/main.274f57b5.css",
-    "static/js/main.488d57b1.js"
+    "static/js/main.5adab03c.js"
   ]
 }
